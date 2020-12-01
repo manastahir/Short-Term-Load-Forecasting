@@ -3,9 +3,7 @@
 This repository provides the code for the paper "Short-Term Load Forecasting using Bi-directional Sequential Models and Feature Engineering for Small Datasets" available at <a href=
 https://arxiv.org/pdf/2011.14137v1.pdf> paper </a>.
 
-<p align="center">
-  <img src="https://github.com/manastahir/Short-Term-Load-Forecasting/tree/master/alt/Architechure.png" width="250" height="300" alt="Deep Deff architechure">
-</p>
+<img src="https://github.com/manastahir/Short-Term-Load-Forecasting/blob/master/alt/Architechure.png" width="800" height="400">
 
 <hr/>
 
