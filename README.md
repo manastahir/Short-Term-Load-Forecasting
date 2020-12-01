@@ -4,10 +4,9 @@ This repository provides the code for the paper "Short-Term Load Forecasting usi
 https://arxiv.org/pdf/2011.14137v1.pdf> paper </a>.
 
 <p align="center">
-  <img src="https://manastahir/Short-Term-Load-Forecasting/blob/main/alt/Architechure.png" width="500" height="600" alt="Deep Deff architechure">
+  <img src="https://github.com/manastahir/Short-Term-Load-Forecasting/tree/master/alt/Architechure.png" width="250" height="300" alt="Deep Deff architechure">
 </p>
 
-![alt text](?raw=true)
 <hr/>
 
 ## Introduction 
