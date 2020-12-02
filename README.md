@@ -58,6 +58,7 @@ ERCOT
     note   = "\url{https://ercot.com/}",
     year   = "2019 (Accessed online:27.08.2019)"
 } 
+
 AMPD
 >@inproceedings{ampd,
     author={S. {Makonin} and F. {Popowich} and L. {Bartram} and B. {Gill} and I. V. {Bajić}},
