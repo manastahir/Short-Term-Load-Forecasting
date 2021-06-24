@@ -94,3 +94,12 @@ PRECON
 }
 
 
+
+## Citation
+
+>@>@inproceedings{IEEE Access,
+    author = {Abdul Wahab, Muhammad Anas Tahir, Naveed Iqbal, Adnan Ul-Hasan, Faisal Shafiat, Syed Muhammad Raza Kazmi},
+    title = {A Novel Technique for Short-Term LoadForecasting using Sequential Modelsand Feature Engineering},
+    year = {2021},
+    keywords = {Load Forecasting, Smart Grids, Deep Learning, Feature Engineering, Sequential Models},
+}
