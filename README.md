@@ -75,8 +75,7 @@ AMPD
 }
 
 PRECON
-```shell
-@inproceedings{Nadeem:2019:PPR:3307772.3328317,
+>@inproceedings{Nadeem:2019:PPR:3307772.3328317,
     author = {Nadeem, Ahmad and Arshad, Naveed},
     title = {{PRECON}: {Pakistan} Residential Electricity Consumption Dataset},
     booktitle = {Proceedings of the Tenth ACM International Conference on Future Energy Systems},
@@ -97,8 +96,8 @@ PRECON
 
 
 ## Citation
-
->@>@inproceedings{IEEE Access,
+```shell
+@inproceedings{IEEE Access,
     author = {Abdul Wahab, Muhammad Anas Tahir, Naveed Iqbal, Adnan Ul-Hasan, Faisal Shafiat, Syed Muhammad Raza Kazmi},
     title = {A Novel Technique for Short-Term LoadForecasting using Sequential Modelsand Feature Engineering},
     year = {2021},
