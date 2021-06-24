@@ -75,7 +75,8 @@ AMPD
 }
 
 PRECON
->@inproceedings{Nadeem:2019:PPR:3307772.3328317,
+```shell
+@inproceedings{Nadeem:2019:PPR:3307772.3328317,
     author = {Nadeem, Ahmad and Arshad, Naveed},
     title = {{PRECON}: {Pakistan} Residential Electricity Consumption Dataset},
     booktitle = {Proceedings of the Tenth ACM International Conference on Future Energy Systems},
@@ -103,3 +104,4 @@ PRECON
     year = {2021},
     keywords = {Load Forecasting, Smart Grids, Deep Learning, Feature Engineering, Sequential Models},
 }
+```
