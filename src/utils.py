@@ -5,6 +5,9 @@ import numpy as np
 import datetime as dt
 from matplotlib.dates import DateFormatter
 
+"""
+Utility functions 
+"""
 def mean_absolute_percentage_error(y_true, y_pred, epsilon = 10e-10):
     y_true, y_pred = np.array(y_true), y_pred[:, 0]
     return np.mean(np.abs((y_true - y_pred) / (y_true+epsilon))) * 100

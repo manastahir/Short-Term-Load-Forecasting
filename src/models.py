@@ -1,3 +1,5 @@
+# Keras with tensorflow 1.x backend
+
 import keras.metrics
 from keras.layers import Input
 from keras.layers.core import Dense, Dropout, Activation, Flatten
@@ -6,6 +8,7 @@ from keras import layers as kl
 from keras.layers.merge import concatenate
 from keras import Model
 
+# Single branch Sequential model
 def build_basic_model(model_name, window, train_shape, loss, dropout=0.2):
     dropout = dropout    
     I = Input(shape=(window, train_shape), name="basic")    
@@ -44,6 +47,7 @@ def build_basic_model(model_name, window, train_shape, loss, dropout=0.2):
 
     return model
 
+#Branched sequential model to process basic and derived features seperately
 def build_deep_parse_model(model_name, window, basic_shape, derived_shape, loss, dropout=0.2):
 
     I1 = Input(shape=(window, basic_shape), name="basic")

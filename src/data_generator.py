@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder
 
+"""
+This is a data loader for PRECON dataset. Each dataset has a different format and 
+readings so data loader has to e modified acoording to each dataset.
+"""
+
 class DataGen():
   def __init__(self, filepath, split):
     data = pd.read_csv(filepath)
