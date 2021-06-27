@@ -37,7 +37,7 @@ Runs experiment using LSTM model with MAPE loss fucntion and 12 timesteps and de
 
 ```shell
 SGSC
->@manual{smart_grid,
+@manual{smart_grid,
     title  = "Smart-Grid Smart-City Customer Trial Data",
     author = "",
     note   = "\url{https://data.gov.au/data/dataset/4e21dea3-9b87-4610-94c7-15a8a77907ef}",
@@ -47,7 +47,7 @@ SGSC
 
 ```shell
 RTE
->@manual{rte-data,
+@manual{rte-data,
     title  = "RTE, Grid data.",
     author = "",
     note   = "\url{https://data.rte-france.com/}",
@@ -57,7 +57,7 @@ RTE
 
 ```shell
 ERCOT
->@manual{ercot-data,
+@manual{ercot-data,
     title  = "ERCOT, Grid data.",
     author = "",
     note   = "\url{https://ercot.com/}",
