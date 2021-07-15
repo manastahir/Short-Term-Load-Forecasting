@@ -1,6 +1,6 @@
 # Short Term Load Forecasting using feature engineering 
 
-This repository provides the code for the paper "Short-Term Load Forecasting using Bi-directional Sequential Models and Feature Engineering for Small Datasets" available at <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9467267> paper </a>.
+This repository provides the code for the paper "Short-Term Load Forecasting using Bi-directional Sequential Models and Feature Engineering for Small Datasets" available at <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9467267"> paper </a>.
 
 <img src="https://github.com/manastahir/Short-Term-Load-Forecasting/blob/master/alt/Architechure.png" width="800" height="400">
 
